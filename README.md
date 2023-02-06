@@ -3,9 +3,7 @@
 Bonjour,
 
 Premièrement, je vous remercie pour ce test technique.
-
 Les informations relatives aux athlètes sur The Sports DB ne sont pas normalisées.
-
 C'est pourquoi j'ai effectué des tests sur les IDs suivants :
 
 [athlete ID=34172174]
