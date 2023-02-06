@@ -7,6 +7,7 @@ Les informations relatives aux athlètes sur The Sports DB ne sont pas normalis�
 C'est pourquoi j'ai effectué des tests sur les IDs suivants :
 
 [athlete ID=34172174]
+
 [athlete ID="34162098"]
 [athlete ID=34162089]
 [athlete ID="34161115"]
