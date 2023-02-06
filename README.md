@@ -9,11 +9,17 @@ C'est pourquoi j'ai effectué des tests sur les IDs suivants :
 [athlete ID=34172174]
 
 [athlete ID="34162098"]
+
 [athlete ID=34162089]
+
 [athlete ID="34161115"]
+
 [athlete ID="34153733"]
+
 [athlete ID="34145410"]
+
 [athlete ID="34161165"]
+
 [athlete ID="34159843"]
 
 En tenant compte d'athlètes de nom plus ou moins long, de différents sports (Soccer, Basketball, Golf), à la retraite (_Retired [Sport]), de nationalité américaine (ex : USA vs United States), de taille dont la mesure n'est pas définie (ex : uniquement 2.03 au lieu de 2.03 m), de masse corporelle dont la mesure n'est pas définie (ex: 103 au lieu de 103 kg), et dont les liens vers les réseaux sociaux peuvent comportés ou non le protocole (http ou https).
