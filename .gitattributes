@@ -2,3 +2,5 @@
 *.scss linguist-detectable=false
 *.css linguist-detectable=false
 *.js linguist-detectable=false
+*.php text eol=lf
+*.js text eol=lf
